@@ -2,7 +2,8 @@
 - 👀 I’m interested in Blockchain, d'Apps, team project, ICP
 - 🌱 I’m currently learning ©
 - 💞️ I’m looking to collaborate on (secret)
-- 📫 How to reach me ...
+- 📫 How to reach me ****[bks1c.txt](https://github.com/bks1c/bks1c/files/14848162/bks1c.txt)
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
