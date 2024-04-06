@@ -4,9 +4,6 @@
 - 💞️ I’m looking to collaborate on (secret)
 - 📫 How to reach me ****[bks1c.txt](https://github.com/bks1c/bks1c/files/14848162/bks1c.txt)
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 <!---
 bks1c/bks1c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
